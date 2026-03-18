@@ -1,0 +1,22 @@
+main {
+    background-color: rgb(129, 42, 196)
+}
+
+p {
+   color: white;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    background-color: black;
+}
+
+footer {
+    background-color: black;
+    text-decoration-style: wavy;
+}
+
+body {
+    background-color:rgb(94, 139, 166);
+}
